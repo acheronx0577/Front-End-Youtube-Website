@@ -1,7 +1,15 @@
+p {
+    font-family: Roboto, Arial;
+}
+
 [class = "thumbnails"] {
     display: block;
     width: 300px;
     border-radius: 7px;
+}
+
+[class = "video-title"] {
+    margin-top: 0;
 }
 
 [class = "search-bar"] {
@@ -9,13 +17,29 @@
     font-size: 20px;
 }
 
-[class = "video-title"] {
-    width: 300px;
-}
-
 [class = "video-preview"] {
     display: inline-block;
     width: 300px;
     vertical-align: top;
     margin-right: 4px;
+}
+
+[class = "channel-picture"] {
+    display: inline-block;
+    width: 50px;
+    vertical-align: top;
+}
+
+[class = "video-info"] {
+    display: inline-block;
+    width: 200px;
+}
+
+[class = "profile-picture"] {
+    width: 40px;
+    border-radius: 50px;
+}
+
+[class = "thumbnail-row"] {
+    margin-bottom: 10px;
 }
