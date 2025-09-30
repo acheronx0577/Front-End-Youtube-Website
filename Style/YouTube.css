@@ -1,8 +1,21 @@
 [class = "thumbnails"] {
+    display: block;
     width: 300px;
+    border-radius: 7px;
 }
 
 [class = "search-bar"] {
+    display: block;
     font-size: 20px;
-    margin-left: 10px;
+}
+
+[class = "video-title"] {
+    width: 300px;
+}
+
+[class = "video-preview"] {
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin-right: 4px;
 }
