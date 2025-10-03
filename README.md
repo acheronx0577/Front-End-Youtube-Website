@@ -67,5 +67,5 @@ A pixel-perfect YouTube interface clone with responsive design and modern CSS te
 ---
 
 *Perfect for learning modern CSS layout techniques and responsive web design!* 💻 
-\n
-I'm going to make this fullstack in the future!
+
+**I'm going to make this fullstack in the future!** 🚀
