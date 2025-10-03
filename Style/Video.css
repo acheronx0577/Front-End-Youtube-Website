@@ -1,5 +1,6 @@
 .thumbnail {
   width: 100%;
+  border-radius: 10px;
 }
 
 .video-title {
@@ -56,4 +57,9 @@
   position: absolute;
   bottom: 8px;
   right: 5px;
+}
+
+.video-title-link {
+  text-decoration: none;
+  color: black;
 }
